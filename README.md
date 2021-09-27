@@ -34,8 +34,8 @@
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight)(https://github.com/anuraghazra/github-readme-stats)
+![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true)(https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=alifbinhossain&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
