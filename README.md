@@ -34,7 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alifbinhossain)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/AlifBinHossain2
 [instagram]: https://www.instagram.com/alifbinhossain_/?hl=en
