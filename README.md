@@ -38,6 +38,13 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alifbinhossain)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<br>
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+```
+<!--END_SECTION:waka-->
+
 [twitter]: https://twitter.com/AlifBinHossain2
 [instagram]: https://www.instagram.com/alifbinhossain_/?hl=en
 [linkedin]: https://www.linkedin.com/in/alifbinhossain/
