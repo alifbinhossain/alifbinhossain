@@ -30,8 +30,8 @@
 <br>
 
 <div style="display: flex; justify-content: center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true" width="400" height="500"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight&height=80" width="400" height="500"/></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true" width="300" height="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight&height=80" width="300" height="500"/></div>
 
 <br>
 
