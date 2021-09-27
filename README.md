@@ -1,6 +1,6 @@
 ### Hi there, I'm Alif Bin Hossain 👋
 
-![](https://komarev.com/ghpvc/?username=alifbinhossain$color=1A1B27)
+![](https://komarev.com/ghpvc/?username=alifbinhossain&color=1A1B27)
 
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning React JS 🤑
