@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning React JS 🤑
 - ❤️ I love to create components, and building fun experiments
-- 🥅 2022 Goals: Become a Junior Frontend Developer
+- 🥅 2022 Goals: Become a Junior Frontend Developer ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 - ⚡ Fun fact: I love to play online games..
 
 ### Connect with me:
