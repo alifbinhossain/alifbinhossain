@@ -1,5 +1,7 @@
 ### Hi there, I'm Alif Bin Hossain 👋
 
+![](https://komarev.com/ghpvc/?username=alifbinhossain$color=1A1B27)
+
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning React JS 🤑
 - ❤️ I love to create components, and building fun experiments
@@ -32,7 +34,7 @@
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alifbinhossain)](https://github.com/anuraghazra/github-readme-stats) -->
 
