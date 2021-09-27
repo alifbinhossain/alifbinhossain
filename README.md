@@ -33,8 +33,8 @@
 ---
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true" width="550" height="500"/></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight&height=80" width="550" height="500"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true" width="500" height="500"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight&height=80" width="500" height="500"/></a>
 </div>
 
 <br>
