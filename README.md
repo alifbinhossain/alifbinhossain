@@ -34,7 +34,7 @@
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true)]
+![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight&height=80)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
@@ -42,7 +42,7 @@
 📊 &nbsp;**This week I spent my time on**
 <br>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alifbinhossain&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alifbinhossain&hide_title=false&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 [twitter]: https://twitter.com/AlifBinHossain2
 [instagram]: https://www.instagram.com/alifbinhossain_/?hl=en
