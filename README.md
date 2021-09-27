@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning React JS 🤑
 - ❤️ I love to create components, and building fun experiments
 - 🥅 2022 Goals: Become a Junior Frontend Developer
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+- 💻 I love to exploring new tech stack and building cool stuffs.
+- 📰 Reading tech documentations whenever possible.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 ### Connect with me:
 
@@ -26,6 +28,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
 <code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></code>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alifbinhossain&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alif's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
