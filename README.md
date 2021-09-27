@@ -30,14 +30,12 @@
 <code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></code>
 
+---
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alifbinhossain&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alif's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
-
-<!-- 📊 &nbsp;**This week I spent my time on**
-<br> -->
-
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alifbinhossain&custom_title=This_week_I_spent_my_time_on&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 [twitter]: https://twitter.com/AlifBinHossain2
