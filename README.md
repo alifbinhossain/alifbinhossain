@@ -1,7 +1,7 @@
 ### Hi there, I'm Alif Bin Hossain 👋
 
-- 🔭 I’m currently working on something cool 💪
-- 🌱 I’m currently learning react
+- 🔭 I’m currently working on something cool 😎
+- 🌱 I’m currently learning React JS 🤑
 - ❤️ I love to create components, and building fun experiments
 - 🥅 2022 Goals: Become a Junior Frontend Developer
 - ⚡ Fun fact: I love to play online games..
