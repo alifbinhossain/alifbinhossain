@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning React JS 🤑
 - ❤️ I love to create components, and building fun experiments
-- 🥅 2022 Goals: Become a Junior Frontend Developer ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+- 🥅 2022 Goals: Become a Junior Frontend Developer
 - ⚡ Fun fact: I love to play online games..
 
 ### Connect with me:
@@ -26,16 +26,17 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 ---
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight&height=80)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifbinhossain&&count_private=true&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=tokyonight&height=80)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br>
 
