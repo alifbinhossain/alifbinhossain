@@ -34,7 +34,7 @@
 <!-- 📊 &nbsp;**This week I spent my time on**
 <br> -->
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alifbinhossain&custom_title="&nbsp;This week I spent my time on"&hide_title=false&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alifbinhossain&custom_title="This week I spent my time on"&hide_title=false&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 [twitter]: https://twitter.com/AlifBinHossain2
 [instagram]: https://www.instagram.com/alifbinhossain_/?hl=en
