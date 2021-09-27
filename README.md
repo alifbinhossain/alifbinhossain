@@ -1,4 +1,6 @@
-### Hi there, I'm [Alif Bin Hossain] 👋
+<!-- ### Hi there, I'm [Alif Bin Hossain] 👋 -->
+
+### Hi there, I'm [Alif Bin Hossain][homepage]👋
 
 ![](https://komarev.com/ghpvc/?username=alifbinhossain&color=1A1B27)
 
