@@ -2,9 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=alifbinhossain&color=brightgreen)
 
-- 🔭 I’m currently working on something cool.😎
-- 🌱 I’m currently learning React JS.🤑
-- ❤️ I love to create components, and building fun experiments.
+- 🔭 I’m currently working on MERN.😎
+- 🌱 I’m currently learning React JS.😭
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
 - 🥅 2022 Goals: Become a Junior Frontend Developer.
