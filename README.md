@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React JS.😭
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
-- 🥅 2022 Goals: Want to be a Fullstack Web Developer.
+- 🥅 2021 Goals: Want to be a Fullstack Web Developer.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 ### Connect with me:
