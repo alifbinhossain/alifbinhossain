@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=alifbinhossain&color=brightgreen)
 
-- 🔭 I’m currently working on MERN.😎
+- 🔭 Focusing on MERN.😎
 - 🌱 I’m currently learning React JS.❤
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
