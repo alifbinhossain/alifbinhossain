@@ -3,10 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=alifbinhossain&color=brightgreen)
 
 - 🔭 Focusing on MERN.😎
-- 🌱 I’m currently learning Next JS ❤
+- 🌱 I’m currently learning Nest JS ❤
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
-- 🥅 2022 Goals: Want to be a Fullstack Web Developer.
+- 🥅 2024 Goals: Want to be a Fullstack Web Developer.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 ### Connect with me:
